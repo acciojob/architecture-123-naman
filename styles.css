@@ -1,1 +1,36 @@
 /*  your css code here. If applicable */
+*{
+    margin:0;
+	padding: 0;
+	max-width:1100px;
+    
+}
+body{
+    padding-top: 5px;
+    padding-left: 15px;
+    background-color: #cbd6cbff;
+}
+h2{
+    text-align: center;
+    padding-bottom: 15px;
+}
+#middle{
+    text-align: justify;
+    padding: 25px;
+}
+#img1{
+    text-align: right;
+   padding: 9px 1px 7px 5px;
+}
+#img2{
+    text-align: right;
+   padding: 0px 0px 17px 5px;
+}
+#img3{
+    text-align: right;
+    /*padding: 0px 0px 17px 5px;*/
+}
+#img4{
+    margin-top: -65px !important;
+    margin-left: 40px;
+}
